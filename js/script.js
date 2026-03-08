@@ -64,9 +64,6 @@ function checkInputs(){
 
 }
 
-
-
-
 menuicon.addEventListener('click',() =>{ 
   menuicon.classList.toggle('bx-x');
   navbar.classList.toggle('active');
